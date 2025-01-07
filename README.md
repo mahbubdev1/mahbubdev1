@@ -6,7 +6,7 @@
 - 🎓 7th Semester CGPA: **3.78 (out of 4.00)**.
 
 ## 🔧 Skills
-- **Languages:** JavaScript, Python, C++
+- **Languages:** JavaScript
 - **Frontend:** HTML, CSS, React, TailwindCSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Firebase
