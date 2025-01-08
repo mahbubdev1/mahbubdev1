@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="620" src="https://github.com/mahbubdev1/mahbubdev1/blob/main/final-banner.png?raw=true"  />
+  <img  src="https://github.com/mahbubdev1/mahbubdev1/blob/main/final-banner.png?raw=true" style="height: 400px; width: 100%;"  />
 </div>
 
 ###
