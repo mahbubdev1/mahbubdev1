@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">Web Developer</p>
+<h1 align="left">Hey 👋 I Am Md. Mahbub Alam</h1>
 
 ###
 
-<h1 align="left">Hey 👋 I Am Md. Mahbub Alam</h1>
+<h5 align="left">Web Developer</h5>
 
 ###
 
@@ -20,11 +20,15 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">Talking about Personal Stuffs:</h3>
 
 ###
 
 <p align="left">👨‍🏛 I am currently a student of SEPI.<br>💻 Major is Computer Science and Technology.<br>🌱 I'm currently learning Web development and English.<br>🤔 My hobbies are cricket and football.<br>💼 I am an obsessive-compulsive disorder.<br>💬 If you have any questions, just ask me.</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -62,11 +66,15 @@
 
 ###
 
-<h4 align="left">I am currently learning</h4>
+<h4 align="left">I am currently working</h4>
 
 ###
 
 <p align="left">🔭 I’m currently working on React Project.<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about Web Development<br>🌱 I’m learning Next.js and exploring new tools<br>🚀 I’m focused on improving performance optimization techniques</p>
+
+###
+
+<p align="left">I am currently learning:</p>
 
 ###
 
